@@ -1,0 +1,1 @@
+{"version":3,"sources":["IRunnable.ts"],"names":[],"mappings":";AAAA;IAAA;IAEA,CAAC;IAAD,gBAAC;AAAD,CAFA,AAEC,IAAA;AAFqB,iBAAS,YAE9B,CAAA","file":"IRunnable.js","sourcesContent":["export abstract class IRunnable {\n    public abstract run (): void;\n}\n"]}

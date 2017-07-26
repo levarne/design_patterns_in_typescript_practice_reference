@@ -1,0 +1,38 @@
+{
+  "name": "design_patterns_in_typescript",
+  "version": "1.0.0",
+  "description": "To familiarize myself with design patterns and for reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levarne/design_patterns_in_typescript_practice_reference.git"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "typescript",
+    "levarne",
+    "reference"
+  ],
+  "author": "Your Name <Your Email>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levarne/design_patterns_in_typescript_practice_reference/issues"
+  },
+  "homepage": "https://github.com/levarne/design_patterns_in_typescript_practice_reference#readme",
+  "devDependencies": { 
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^5.0.0",
+    "gulp-typescript": "^2.13.0",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1",
+    "superstatic": "^4.0.2",
+    "tslint": "^3.8.1"
+  }
+}
